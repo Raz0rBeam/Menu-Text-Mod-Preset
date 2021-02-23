@@ -1,0 +1,65 @@
+# Custom Menu Text v3.1.3
+# by Arti
+# Special Thanks: Kyle1413, Alphie
+#
+# Use # for comments!
+# Separate entries with empty lines; a random one will be picked each time the menu loads.
+# Appears just like in the vanilla game (except not quite because the vanilla logo is an image now):
+# Entries with a number of lines other than 2 won't be colored by default.
+# Color them yourself with formatting!
+# You can override the colors even when the text is 2 lines, plus do a lot of other stuff!
+# (contributed by @Rolo)
+#
+# Hi yall Raz0r here! I hope you enjoy these menu text things. If your looking in here congrats! You're a kool kid!
+# Make sure to get the latest menu texts from #pc-mods and the newest texts from #other-files!
+#
+Memer
+Funny
+
+Keep Memes out of
+<#ffffff>#general
+
+Having problems?
+Ask in <#7289DA>#pc-help
+
+<#47ffac>Toni Macaroni
+<#1f40ff>Deserves a
+<i><#ff0fbb>Cookie
+
+<#33cfff>H<#cf33ff>i
+
+<i><#33cfff>Beat
+<i><#cf33ff>Saber
+
+if your reading this
+your cool
+
+<i><#ff0000>R<#ff8c00>a<#fffb00>i<#1aff00>n<#1100ff>b<#8400ff>o<#ff00f2>w
+
+<#f7ff59>Thanks modders
+<#ff3636>heres a cookie
+
+<#21ff3f>Send
+<#ff5757>Nudes
+
+Beat saber 2
+when?
+
+Memer has a better twitch
+than me
+
+<#5a5b8c>Ne0n best SF
+<#a6007c>supporter 
+
+thanks for the mod
+Headassbtw
+
+<#e6c29e>bagel
+
+get that 
+400 pp play
+
+<#d9b568>LStoast should 
+<#d9b568>download this
+
+<#ff1919>ඞ
